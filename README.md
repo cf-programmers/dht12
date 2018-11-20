@@ -1,3 +1,3 @@
 # dht12
 
-Temperature and humidity sensor based on library https://github.com/kelly/node-i2c preinstalled on beaglebone debian software images
+Temperature and humidity sensor based on library https://github.com/kelly/node-i2c . The library is already installed on beaglebone debian software images
